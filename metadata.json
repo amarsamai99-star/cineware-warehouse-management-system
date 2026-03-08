@@ -1,0 +1,7 @@
+{
+  "name": "CineWare - Warehouse Management System",
+  "description": "A professional cinema equipment rental warehouse management system with barcode scanning, digital signatures, and multi-user support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
